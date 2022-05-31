@@ -28,6 +28,7 @@ namespace asptemplatesetup
             }
 
             app.UseRouting();
+            app.UseStaticFiles();
 
             app.UseEndpoints(endpoints =>
             {

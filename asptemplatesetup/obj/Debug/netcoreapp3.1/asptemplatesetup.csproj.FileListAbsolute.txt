@@ -30,3 +30,12 @@ C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1
 C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\asptemplatesetup.pdb
 C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\asptemplatesetup.genruntimeconfig.cache
 C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\asptemplatesetup.csproj.CopyComplete
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\shared\_Layout.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\Home\blog.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\Home\contact.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\Home\portfolio.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\Home\pricing.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\Home\services.cshtml.g.cs
+C:\Users\aytnz\Desktop\asptemplatesetup\asptemplatesetup\obj\Debug\netcoreapp3.1\Razor\Views\Home\team.cshtml.g.cs
