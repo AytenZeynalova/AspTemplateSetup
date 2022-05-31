@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asptemplatesetup", "asptemplatesetup\asptemplatesetup.csproj", "{4D34AA35-E857-4EF3-8271-E4C77A42D978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D34AA35-E857-4EF3-8271-E4C77A42D978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D34AA35-E857-4EF3-8271-E4C77A42D978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D34AA35-E857-4EF3-8271-E4C77A42D978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D34AA35-E857-4EF3-8271-E4C77A42D978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7450612B-87DE-4363-A07D-B275336A0A6E}
+	EndGlobalSection
+EndGlobal
